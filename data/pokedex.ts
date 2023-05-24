@@ -11679,12 +11679,18 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Diggersby"],
 		eggGroups: ["Field"],
 	},
+	/**
+	 * Diggersby
+		BST Change 90/50/85/30/85/80
+		Abilities - Iron Fist, Cheek Pouch, Huge Power.
+		New Moves - Belly Drum, Poison Jab, Shadow Punch
+	 */
 	diggersby: {
 		num: 660,
 		name: "Diggersby",
 		types: ["Normal", "Ground"],
-		baseStats: {hp: 85, atk: 56, def: 77, spa: 50, spd: 77, spe: 78},
-		abilities: {0: "Pickup", 1: "Cheek Pouch", H: "Huge Power"},
+		baseStats: {hp: 90, atk: 50, def: 85, spa: 30, spd: 85, spe: 80},
+		abilities: {0: "Iron Fist", 1: "Cheek Pouch", H: "Huge Power"},
 		heightm: 1,
 		weightkg: 42.4,
 		color: "Brown",

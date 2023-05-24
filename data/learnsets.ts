@@ -65491,8 +65491,19 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			workup: ["8M", "7M"],
 		},
 	},
+		/**
+	 * Diggersby
+		BST Change 90/50/85/30/85/80
+		Abilities - Iron Fist, Cheek Pouch, Huge Power.
+		New Moves - Belly Drum, Poison Jab, Shadow Punch
+	 */
 	diggersby: {
 		learnset: {
+			// New Moves
+			bellydrum: ["8L1"],
+			poisonjab: ["8L1"],
+			shadowpunch: ["8L1"],
+			//
 			agility: ["8M", "7L1", "6L1"],
 			attract: ["8M", "7M", "6M"],
 			bodyslam: ["8M"],
