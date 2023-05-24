@@ -65500,9 +65500,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 	diggersby: {
 		learnset: {
 			// New Moves
-			bellydrum: ["8L1"],
-			poisonjab: ["8L1"],
-			shadowpunch: ["8L1"],
+			bellydrum: ["8M"],
+			poisonjab: ["8M"],
+			shadowpunch: ["8M"],
 			//
 			agility: ["8M", "7L1", "6L1"],
 			attract: ["8M", "7M", "6M"],
